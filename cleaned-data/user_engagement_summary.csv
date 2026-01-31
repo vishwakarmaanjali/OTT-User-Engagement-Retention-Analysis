@@ -1,0 +1,10 @@
+Profile Name,total_watch_seconds,sessions_count,first_activity,last_activity,unique_titles,avg_session_seconds,days_active,device_types_used,country_iso,Deactivation Time,deactivated,Subscription_Type,Age,Age_Group
+User 0,186877,215,2021-10-30 03:03:59,2022-10-06 17:29:04,120,869.1953488372093,342,"Device Type 0,Device Type 1,Device Type 7",AE,2022-11-26 08:51:46,True,Standard,41,35-44
+User 1,130221,189,2021-12-08 14:39:26,2022-04-28 16:08:56,123,689.0,142,"Device Type 1,Device Type 4,Device Type 6,Device Type 7",IN,2022-11-26 08:51:46,True,Premium,20,18-24
+User 2,227223,198,2021-12-26 13:27:05,2022-06-15 15:14:06,102,1147.590909090909,172,"Device Type 0,Device Type 5",IN,2022-11-26 08:51:46,True,Premium,39,35-44
+User 3,75170,84,2021-11-25 16:37:44,2022-11-07 12:57:43,67,894.8809523809524,347,"Device Type 0,Device Type 4",IN,2022-11-26 08:51:46,True,Standard,70,65+
+User 4,5221435,5239,2021-10-31 07:55:44,2022-09-30 14:54:39,2496,996.647260927658,335,"Device Type 0,Device Type 1,Device Type 2,Device Type 3,Device Type 4,Device Type 5,Device Type 6,Device Type 7",AE,1970-01-01 00:00:00,True,Basic,19,18-24
+User 5,484243,892,2023-01-07 15:13:19,2023-06-20 15:09:20,548,542.8733183856502,164,"Device Type 0,Device Type 1,Device Type 4,Device Type 5,Device Type 7",IN,,False,Basic,41,35-44
+User 6,338265,496,2022-06-13 19:28:21,2023-06-19 04:44:39,301,681.9858870967741,371,"Device Type 0,Device Type 1,Device Type 2,Device Type 6,Device Type 7",IN,,False,Basic,61,55-64
+User 7,610699,747,2022-06-05 17:56:46,2023-06-20 10:14:25,404,817.5354752342704,380,"Device Type 0,Device Type 1,Device Type 11",IN,,False,Premium,47,45-54
+User 8,1659712,1932,2022-06-01 13:32:46,2023-06-20 16:09:32,1004,859.0641821946169,385,"Device Type 0,Device Type 1,Device Type 11,Device Type 3,Device Type 6",IN,1970-01-01 00:00:00,True,Standard,55,55-64
